@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import sys
 import inspect
 # ---- Set up path to modules ----
